@@ -1,0 +1,5 @@
+language: ruby
+rvm:
+  - 2.4.1
+after_success:
+  - bash <(curl -s https://scripts.scantist.com/staging/ci-travis.sh)
