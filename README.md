@@ -1,4 +1,4 @@
-# Rubygems/Travis CI Example
+# Ruby Budnler/Travis CI Example
 
 Shows a working setup for analyzing the risk of Ruby project dependencies
 
